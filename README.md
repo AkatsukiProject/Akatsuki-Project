@@ -11,3 +11,5 @@ Clique sur Code puis Download ZIP
 > **Etape 2 :  Extraire les modules (winrar requis)**
 
 Ouvrez le dossier Akatsuki-Project-main, puis faites un clique droit sur le fichier "Extrait Ici.rar
+
+![ScreenShot](https://media.discordapp.net/attachments/726415763526647841/730716565049311322/unknown.png)
