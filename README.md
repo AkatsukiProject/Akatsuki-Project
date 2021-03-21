@@ -22,7 +22,6 @@ Maintenant ouvrez le dossier Akatsuki-Project-main, puis faites encore un clique
 > **Etape 3 : Remplir le config.js**
 
 ```json
-{
 const token = "ton token"; //ici met ton token ce qui permettra au selfbot de fonctionner
 const prefix = "ton prefix"; //le prefix est la chose que tu devras mettre avant une cmd
 const color = "ta couleur embed"; //une couleur HTML
@@ -36,6 +35,5 @@ prefix,            // NE PAS TOUCHER
 color,             // NE PAS TOUCHER
 image,             // NE PAS TOUCHER
 console            // NE PAS TOUCHER
-}
 }
 ```
