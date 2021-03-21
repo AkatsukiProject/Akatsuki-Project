@@ -27,7 +27,7 @@ const token = "ton token"; //ici met ton token ce qui permettra au selfbot de fo
 const prefix = "ton prefix"; //le prefix est la chose que tu devras mettre avant une cmd
 const color = "ta couleur embed"; //une couleur HTML
 const image = "url d'un gif"; //met l'url d'une image que tu veux quel s'affiche en dessous des embeds
-const console = "msg personalisé"; //ton message personalisé das la console
+const console = "msg personalisé"; //ton message personalisé dans la console
 ```
 
 A la fin sa doit ressembler à sa :
@@ -37,5 +37,5 @@ const token = "ODIyNTAzMzczNzQ4MTc0OTEw.YFTOZA.pSA_HZ7HFm1rD_gZSQT5U8gD0NM"; //i
 const prefix = "."; //le prefix est la chose que tu devras mettre avant une cmd
 const color = "RANDOM"; //une couleur HTML
 const image = "https://cdn.discordapp.com/attachments/797573920642564097/812019735406706758/image4.gif"; //met l'url d'une image que tu veux quel s'affiche en dessous des embeds
-const console = "test"; //ton message personalisé das la console
+const console = "test"; //ton message personalisé dans la console
 ```
