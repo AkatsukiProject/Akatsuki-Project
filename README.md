@@ -49,4 +49,5 @@ Il faudra juste lancer le fichier start.bat est le tour est joué !
 
 Je vous souhaite une bonne découverte du selfbot !
 
-[Tuto Vidéo](https://www.youtube.com/channel/UCZxIfivX9hdiA9Db2VeAolg)
+[Tuto en vidéo pour pc](https://www.youtube.com/channel/UCZxIfivX9hdiA9Db2VeAolg)
+[Tuto en vidéo pour android](https://www.youtube.com/channel/UCZxIfivX9hdiA9Db2VeAolg)
