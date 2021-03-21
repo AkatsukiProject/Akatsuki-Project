@@ -39,3 +39,13 @@ const color = "RANDOM"; //une couleur HTML
 const image = "https://cdn.discordapp.com/attachments/797573920642564097/812019735406706758/image4.gif"; //met l'url d'une image que tu veux quel s'affiche en dessous des embeds
 const console = "test"; //ton message personalisé dans la console
 ```
+
+> **Etape 4 : Lancer le selfbot**
+
+Lancer le selfbot est létape la plus simple a faire !
+Il faudra juste lancer le fichier start.bat est le tour est joué !
+
+
+Je vous souhaite une bonne découverte du selfbot !
+
+[Tuto Vidéo](https://www.youtube.com/channel/UCZxIfivX9hdiA9Db2VeAolg)
