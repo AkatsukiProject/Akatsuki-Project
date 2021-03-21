@@ -2,7 +2,7 @@ const token = "ton token"; //ici met ton token ce qui permettra au selfbot de fo
 const prefix = "ton prefix"; //le prefix est la chose que tu devras mettre avant une cmd
 const color = "ta couleur embed"; //une couleur HTML
 const image = "url d'un gif"; //met l'url d'une image que tu veux quel s'affiche en dessous des embeds
-const console = "msg personalisé"; //ton message personalisé das la console
+const msgconsole = "msg personalisé"; //ton message personalisé das la console
 
 
 
@@ -11,5 +11,5 @@ token,             // NE PAS TOUCHER
 prefix,            // NE PAS TOUCHER
 color,             // NE PAS TOUCHER
 image,             // NE PAS TOUCHER
-console            // NE PAS TOUCHER
+msgconsole            // NE PAS TOUCHER
 }
